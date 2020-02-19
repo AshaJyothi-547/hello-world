@@ -1,0 +1,90 @@
+.button-padding
+{
+   margin-left:70px;
+   margin-top:90px;
+
+}
+.btn-style
+{
+    border-radius: 20px;
+    background-color:green;
+    padding:10px;
+    border:1px solid transparent; 
+}
+.navbar-place
+{
+    display:inline-flex;
+}
+.btn{
+    padding-bottom: 30px;
+    padding-top:30px;
+}
+.btn1
+{
+    background-color: #008000;
+    font-size: 14px;
+    width:147px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 48px;
+    border: 1px solid transparent;
+}
+.button-style
+{
+    background-color: #008000;
+    font-size: 14px;
+    width:147px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 48px;
+    border: 1px solid transparent;
+}
+.button-style:hover
+{
+    font-size:16px;
+}
+.slide-image
+{
+    width:40px;
+    height:40px;
+
+}
+.movement:hover
+{
+    transform: translateX(20px);
+    transition: all 0.3s ease-in-out;
+    
+}
+.movement1:hover
+{
+    transform-origin: center center;
+    font-size:19px;
+    transition: all 0.3s ease-in-out;
+    
+}
+.slide-image1
+{
+    width:40px;
+    height:40px;
+
+}
+.btn-style
+{
+    background-color: #4CAF50;
+    border: none;
+    /*margin: 4px 2px;
+    margin-left: 130px;
+    margin-bottom: 55px;
+    padding: 15px 32px;*/
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 56px;
+}
+
+.btn-style.myclick
+{
+    font-size:20px;
+}

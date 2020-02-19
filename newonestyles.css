@@ -1,0 +1,146 @@
+.dots::after {
+    content: ". . . . . . . . . . . . . . .";
+    color: #bdbdbd;
+    position: absolute;
+    top: 25%;
+    right: -3.5rem;
+    }
+.boxredius
+{
+    width:156px;
+    height:40px;
+    border-radius: 25px 25px 25px 25px;
+    background-color:#4455bd;
+    color:#f0f8ff;
+    text-align: center;
+    padding-top: 7px;
+}
+.fontfamily
+{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+.contactus
+{
+    text-align:left;
+    display:inline;
+    position: relative;
+    top: -149px;
+    left: 592px;
+}
+.headerlist
+{
+    position: relative; 
+    top: -35px; 
+    left: 594px; 
+    font-size: medium; 
+    height:20px;
+}
+.textcolor
+{
+    color:#8780c8
+}
+.halfbackgrond
+{
+    position: relative;
+     top: -390px; 
+     font-weight:900;
+}
+.needmoneystyle
+{
+    color:#ffffff; 
+    font-size: 14; 
+    font-weight: 600;
+}
+.needcashmama
+{
+    color:#ffcc0b; 
+    font-size: 14; 
+    font-weight: 600;
+}
+.barandgooglecode
+{
+    position: relative; 
+    top:-370px;
+}
+.threesteps
+{
+    position: relative;
+    top:-260px;
+}
+.textcenter
+{
+    text-align: center;
+}
+.cashmamalogo
+{
+    border-radius: 0px 0px 50px 50px;
+}
+.googleheight
+{
+   line-height: 10px;
+}
+.thirdrow
+{
+    position: relative; 
+    top:-104px;
+}
+.textstyle1
+{
+    padding-top: 20px; 
+    font-size: 1.58rem;
+    line-height: 1.5;
+    color: #666;
+}
+.applystyle
+{
+    text-align: center;
+    margin-left: 74px;
+}
+.helpstyle
+{
+    margin-left: 30px;
+    top:62px;
+}
+.alwaysstyle
+{
+    position: relative;
+    left: 1px; top: -44px;
+    padding-top: -54px;
+}
+.lasttext
+{
+    color:#6c757d;
+}
+.lastmail
+{
+    color:#6c757d;
+    font-size: 12px;
+}
+.bottomborder
+{
+    border-bottom: #6c757d solid 0.5px;
+}
+.back
+{
+    background-color:#fff;
+    font-size:14
+}
+.barstyle
+{
+    background-color: #0e23af;
+    padding-top: 10px;
+}
+.topborder
+{
+    border-bottom:#8780c8 solid 0.5px;
+}
+.nav-width
+{
+    position:relative;
+    top: 17px;
+    right: 152px;
+}
+.bg-light
+{
+    background-color: #0e23af;
+}

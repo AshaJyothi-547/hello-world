@@ -1,0 +1,191 @@
+.navbarcolor
+{
+    background-color: #0e23af;
+
+}
+.navborder
+{
+    border-bottom: #99a1d8 0.5px solid;
+}
+.img-fluid
+{
+    width:1227.6;
+    height:293.7;
+}
+.boxredius
+{
+    width:156px;
+    height:40px;
+    border-radius: 25px 25px 25px 25px;
+    background-color:#4455bd;
+    color:#f0f8ff;
+    text-align: center;
+    padding-top: 7px;
+}
+.fontfamily
+{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+.contactus
+{
+    text-align:left;
+    display:inline;
+    position: relative;
+    top: -149px;
+    left: 592px;
+}
+.headerlist
+{
+    position: relative; 
+    top: -35px; 
+    left: 594px; 
+    font-size: medium; 
+    height:20px;
+}
+.textcolor
+{
+    color:#8780c8
+}
+.halfbackgrond
+{
+    position: absolute;
+     top: -390px; 
+     font-weight:900;
+}
+.needmoneystyle
+{
+    color:#ffffff; 
+    font-size: 14; 
+    font-weight: 600;
+}
+.needcashmama
+{
+    color:#ffcc0b; 
+    font-size: 14; 
+    font-weight: 600;
+}
+.barandgooglecode
+{
+    position: relative; 
+    top:-365px;
+}
+.threesteps
+{
+    position: relative;
+    top:-260px;
+}
+.textcenter
+{
+    text-align: center;
+}
+.cashmamalogo
+{
+    border-radius: 0px 0px 50px 50px;
+}
+.googleheight
+{
+   line-height: 10px;
+}
+.thirdrow
+{
+    position: relative; 
+    top:-104px;
+}
+.textstyle1
+{
+    padding-top: 20px; 
+    font-size: 14.9px;
+    line-height: 1.5;
+    color: #666;
+}
+.applystyle
+{
+    text-align: center;
+    margin-left: 74px;
+}
+.helpstyle
+{
+    margin-left: 30px;
+    top:62px;
+}
+.alwaysstyle
+{
+    position: relative;
+    left: 1px; top: -44px;
+    padding-top: -54px;
+}
+.lasttext
+{
+    color:#6c757d;
+}
+.lastmail
+{
+    color:#6c757d;
+    font-size: 12px;
+}
+.bottomborder
+{
+    border-bottom: #6c757d solid 0.5px;
+}
+.back
+{
+    background-color:#fff;
+    font-size:14
+}
+.barstyle
+{
+    background-color: #0e23af;
+    padding-top: 10px;
+}
+.topborder
+{
+    border-bottom:#8780c8 solid 0.5px;
+}
+.nav-width
+{
+    position:relative;
+    top: 17px;
+    right: 152px;
+}
+.bg-light
+{
+    background-color: #0e23af;
+}
+.style1{
+    padding: 3rem 0 1rem 0;
+}
+
+.style1 .wu-item {
+    padding-left: 7rem;
+    padding-right: 2rem;
+}
+.style1 .wu-item.simple {
+    background: url(https://cashmama.in/img/simple-icon@1x.png) left top no-repeat;
+    
+
+}
+.style1 .wu-item.fast{
+    background: url(https://cashmama.in/img/fast-icon@1x.png) left top no-repeat;
+
+}
+.style1 .wu-item.always {
+    background: url(https://cashmama.in/img/always-icon@1x.png) left top no-repeat;
+
+}
+.style1 .wu-item.helping {
+    background: url(https://cashmama.in/img/helping-icon@1x.png) left top no-repeat ;
+    
+
+}
+.symbolsstyle
+{
+    
+    position: relative;
+    top: -160px;
+}
+.whyusstyle
+{
+    
+    position: relative;
+    top: 30px;
+}

@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <style>
+            .box
+            {
+                width:0px;
+                height:0px;
+                border:100px solid black;
+                border-top:200px solid transparent;
+                border-bottom:200px solid yellow;
+                border-left:200px solid transparent;
+                border-right:200px solid transparent;
+                
+            }
+            .hexgon
+            {
+                width:200px;
+                height:288.68px;
+                border:1px solid black;
+                margin:144px auto;
+            }
+            .hexgon::before .hexgon::after
+            {
+                width:200px;
+                height:200px;
+                border:1px solid black;
+                border-top:200px solid yellow;
+                border-bottom:200px solid yellow;
+                border-left:200px solid transparent;
+                border-right:200px solid transparent;
+            }
+        </style>
+    </head>
+    <body>
+        <p class="box"></p>
+        <p class="hexgon"></p>
+    </body>
+</html>

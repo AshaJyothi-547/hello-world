@@ -1,0 +1,239 @@
+.padding-firstbanner
+{
+    padding-left:90px;
+    padding-right:90px;
+}
+.button-style
+{
+    background-color: #008000;
+    font-size: 14px;
+    width: 147px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 48px;
+    border: 1px solid transparent;
+}
+.button-padding
+{
+   margin-left:70px;
+   margin-top:90px;
+
+}
+.nav-link
+{
+    color:white;
+}
+.button-padding1
+{
+    padding-top:80px;
+}
+.background-image
+{
+    background-image: url('https://www.apollofinvest.com/images/slider_bg.png');
+}
+.padding
+{
+position: relative;
+top:10px;
+}
+.apollo-logo-size
+{
+    width:145px;
+    height:60.92px;
+}
+.background-image-size
+{
+    width:1423px;
+    height:523.94px;
+}
+
+.h2-size
+{
+    color:white;
+    font-size:42px;
+    font-family:sans-serif;
+   
+}
+.padding-first
+{
+    padding-left:40px;
+}
+.APIstyle
+{
+    display:inline;
+}
+.navbackground
+{
+    background-color: lightblue;
+}
+/*&div.b {
+    position: relative;
+    left: 704px;
+  } */
+.slide-image
+{
+    width:40px;
+    height:40px;
+
+}
+.slide-image1
+{
+    width:40px;
+    height:40px;
+
+}
+.links-style
+{
+    color:#f0f0f0;
+   
+}
+div.row {
+    margin-right: 0 ;
+    margin-left: 0;
+    
+}
+div.col-md-5
+{
+    padding-left:0px !important;
+}
+.middle-content
+{
+   text-align: left;
+   padding-left:23%;
+   width:68%;
+
+}
+.box
+{
+    border:1px solid grey;
+    width:70%;
+    height:80%;
+    margin-left:173px;
+    padding-left: 93px;
+    border-radius: 3px;
+    box-shadow: 0 0 24px 0 rgba(0,0,0,.22), 0 24px 24px 0 rgba(0,0,0,.3);
+}
+.inlinestyle
+{
+    position:relative;
+    top:-50px;
+    left:73px;
+}
+.developer-style
+{
+    font-weight: 900;
+    font-size: 32px;
+    font-family: raleway,sans-serif;
+}
+.develop-content
+{
+    margin-top:10px;
+    font-size:16px;
+    font-family: Arial, Helvetica, sans-serif;
+    width:37%;
+}
+.develop-gap
+{
+    margin-left:2px;
+    margin-top:50px;
+    padding-left: 150px;
+    top:40px;
+    position: relative;
+    padding-bottom: 20px;
+
+}
+.movement:hover
+{
+    transform: translateX(20px);
+    transition: all 0.3s ease-in-out;
+    
+}
+.second-background
+{
+    background-color: #CC6666;
+    box-sizing: 1px solid transparent;
+    width:80%;
+    border-radius:3px;
+    height:70%;
+
+}
+.movement1:hover
+{
+    transform-origin: center center;
+    font-size:19px;
+    transition: all 0.3s ease-in-out;
+    
+}
+.content-width
+{
+    width: 75%;
+    text-align: left;
+    padding-left: 125px;
+    padding-top: 75px;
+    color: white;
+    font-size: 32px;
+    font-family: sans-serif;
+}
+.btn-style
+{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    margin-bottom: 55px;
+    cursor: pointer;
+    margin-left: 280px;
+    border-radius: 56px;
+}
+.btn-style.myclick
+{
+    font-size:20px;
+}
+.last-background
+{
+    padding-top:90px;
+    padding-left: 90px;
+}
+.last-style
+{
+    color:#f5f5f3;
+    background-color: #0a0d12;
+    padding-top:10px;
+    padding-left:90px;
+    font-size:14px;
+}
+
+/*
+.cenyter-align
+{
+   width:89%;
+}
+
+.center-align.items {
+    padding-left: 15;
+    padding-right: 20px;
+}
+
+.items.neutrality {
+    background: url(https://www.apollofinvest.com/images/point_2.png)  left top no-repeat;
+    width:10px;
+    height:100px;
+}
+.items.stack{
+    background: url(https://www.apollofinvest.com/images/point_1.png) left top no-repeat;
+   
+    
+}
+.items.pricing {
+    background: url(https://www.apollofinvest.com/images/point_3.png) left top no-repeat;
+   
+}
+.items.licensed {
+    background: url(https://www.apollofinvest.com/images/point_4.png) left top no-repeat ;
+
+}*/

@@ -1,0 +1,166 @@
+.border
+{
+    border-bottom: #c5e780 solid 2px;
+    line-height: 5px;
+   
+}
+.width
+{
+    width: 20%;
+    text-align: left;
+}
+.textalign
+{
+    text-align: center;
+    font-size: 150%;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.subtitle
+{
+    text-align: center;
+    font-size: 61%;
+    color:#888282;
+}
+.linegap
+{
+    line-height: 7%;
+}
+.titlecolor1
+{
+    color:#7b7a7a;
+    text-align: center;
+    text-transform: uppercase;
+}
+.titlecolor2
+{
+    color:#000000;
+    display: inline;
+    text-align: center;
+}
+.inl
+{
+    display: inline-block;
+    padding-left: 30px;
+}
+
+.subcolor
+{
+    color:#2f3217;
+    font: size 107%;
+    font-weight: 300;
+    line-height: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pageborder
+{
+    border-top: 20px #c5e780 solid;
+}
+.fstyle
+{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.ribbon::after { 
+    content: " - Cambridge, MA";
+    color:#5c5c72;
+  }
+  .ribbon {
+    font-size: medium;
+  }
+  .ribbon1 {
+    font-size: medium;
+  }
+  .ribbon1::after { 
+    content: " - Brighton, MA";
+    color:#5c5c72;
+  }
+  .ribbon2 {
+    font-size: medium;
+  }
+  .ribbon2::after { 
+    content: " - North Reading, MA";
+    color:#5c5c72;
+  }
+  
+  .ribbon3 {
+    font-size: large;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .ribbon3::after { 
+    content: " TRAN";
+    color:black;
+    letter-spacing: 1px;
+  }
+  .dateright
+  {
+      text-align: right;
+      position: relative;
+        top: -16px;
+  }
+  .linegap1
+  {
+      line-height: 1px;
+  }
+  .date2
+  {
+    text-align: right;
+    position: relative;
+    top: -34px;
+  }
+  .linegap2
+  {
+      line-height:1px;
+  }
+  .mixblend
+  {
+    mix-blend-mode: lighten;
+    background-color: peachpuff;
+    background-repeat: x-repeat;
+  }
+  .subsubcolor
+  {
+    outline-color: #2f3217;
+    color:#452f16;
+    font-weight: 500;
+  }
+  .tab
+  {
+    tab-size: 1;
+  }
+  .scroller
+  {
+    scroll-behavior: smooth;
+  }
+  .totalmrgin
+    {
+    margin: 25px;
+    white-space: 1px;
+    cursor: pointer;
+    }
+    .spl
+    {
+      visibility: hidden;
+    }
+    .ribbon5 {
+      font-size: medium;
+    }
+    .ribbon5::after { 
+      content: " - Medford, MA";
+      color:#5c5c72;
+    }
+    .bstyle
+    {
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: 500;
+    }
+    .paragap
+    {
+        text-indent: 32;
+    }
+    
+
+
+   
+   
+    
